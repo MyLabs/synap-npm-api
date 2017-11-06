@@ -1,0 +1,24 @@
+{
+  "name": "synap-node",
+  "version": "1.0.0",
+  "description": "Node.js API for Synap (https://synap.ac)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyLabs/synap-npm-api.git"
+  },
+  "keywords": [
+    "synap",
+    "npm",
+    "node"
+  ],
+  "author": "James Gupta <james@synap.ac> (https://synap.ac)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyLabs/synap-npm-api/issues"
+  },
+  "homepage": "https://github.com/MyLabs/synap-npm-api#readme"
+}
